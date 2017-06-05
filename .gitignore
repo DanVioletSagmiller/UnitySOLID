@@ -1,0 +1,42 @@
+# =============== #
+# Unity generated #
+# =============== #
+[Tt]emp/
+[Oo]bj/
+[Bb]uild
+/[Ll]ibrary/
+sysinfo.txt
+*.stackdump
+
+# ============ #
+# VS generated #
+# ============ #
+[Dd]ebug/
+[Rr]elease/
+x64/
+x32/
+build/
+.vs/
+[Bb]in/
+[Oo]bj/
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.suo
+*.user
+*.sln.docstates
+*.psess
+*.vsp
+*.vspx
+publish/
+AppPackages/
+ 
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+[Tt]humbs.db
+[Dd]esktop.ini
