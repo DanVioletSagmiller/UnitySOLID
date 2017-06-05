@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a348118c1eb0a424b90feee3fd3b0961, type: 3}
+  m_Name: Shrink
+  m_EditorClassIdentifier: 
+  BallPrefabs:
+  - {fileID: 1709816628216644, guid: a6ac56fc87579e04aaa001e1bf03164d, type: 2}
+  - {fileID: 1853515536532302, guid: a0f0ca3a674c8684d920d0e8b635cf31, type: 2}
+  Materials:
+  - {fileID: 2100000, guid: cb0c3e346d552f34f8ab0a90d69bd0d1, type: 2}
+  - {fileID: 2100000, guid: c274223263898ba44ad488188ba3bb0c, type: 2}
+  - {fileID: 2100000, guid: 66594632b87b9e2449d3bc58c087d63a, type: 2}
+  Reactors: 01000000
+  TimeBetweenReactions: 0.05
+  ScorePerBall: 1
+  CountMultiplier: 1.01
+  BallDropFrequency: 0.1
+  BallTouchRange: 1

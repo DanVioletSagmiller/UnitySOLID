@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 197973990, guid: cef6370384e7e0c4b9ef3110d5ba6a97, type: 3}
+  m_Name: All Prefabs Slip
+  m_EditorClassIdentifier: 
+  ballPrefabs:
+  - {fileID: 1709816628216644, guid: a6ac56fc87579e04aaa001e1bf03164d, type: 2}
+  - {fileID: 1853515536532302, guid: a0f0ca3a674c8684d920d0e8b635cf31, type: 2}
+  materials:
+  - {fileID: 2100000, guid: c274223263898ba44ad488188ba3bb0c, type: 2}
+  - {fileID: 2100000, guid: 66594632b87b9e2449d3bc58c087d63a, type: 2}
+  - {fileID: 2100000, guid: d1daa772f291dc94f9d1eb764c1e3b43, type: 2}
+  - {fileID: 2100000, guid: cb0c3e346d552f34f8ab0a90d69bd0d1, type: 2}
+  Reactors: 02000000
+  timeBetweenReactions: 0.05
+  scorePerBall: 1
+  countMultiplier: 2
+  ballDropFrequency: 0.05
+  ballTouchRange: 1.5
