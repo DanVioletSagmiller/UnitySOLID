@@ -13,6 +13,7 @@ sysinfo.txt
 # ============ #
 [Dd]ebug/
 [Rr]elease/
+[Pp]ackages/
 x64/
 x32/
 build/
