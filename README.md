@@ -3,6 +3,8 @@ SOLID for Unity.  Test Cases, Dependency Injection, etc.
 
 This project focuses on adding SOLID to Unity, along with Unit Testing and Dependency Injection.  Basically most of the professional programming standards the business world is becomming acustomed to.
 
+Available CC0
+
 General Road Map:
 1) Demo Project (done) 
  - See https://github.com/DanVioletSagmiller/UnitySOLID/tree/master/Trunk/Demo
